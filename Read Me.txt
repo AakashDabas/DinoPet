@@ -1,0 +1,4 @@
+These files belongs to Aakash Dabas. Though you can use it only after asking him or mentioning his name in your work. :-)
+
+If compiling gives resource error: 
+If you are having error with resx file or resource directory, remove the files from resources from properties and add all files from the resources downloaded. Or Just copy the resources in the directory required. That is : F:\Minor Project II Dino\Uni_Form_Trans_Test_01\bin\Debug  This folder will contain two folders named "Locations" and "Resources". You will find botht of these folders in the resources given on website.
